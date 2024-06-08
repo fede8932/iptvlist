@@ -43,6 +43,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 http://45.5.151.151:8000/play/a002/index.m3u8
 #EXTINF:0, TYC SPORT
 #EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=1000
 http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:0, DEPORT TV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
