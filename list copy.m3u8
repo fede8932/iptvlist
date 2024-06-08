@@ -1,17 +1,19 @@
 #EXTM3U
 
 #EXTINF:0, C5N
+https://www.youtube.com/watch?v=Hy4UCfsE6Yk
+#EXTINF:0, C5N
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:0, EL NUEVE
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:0, LA NACION+
+https://www.youtube.com/watch?v=ocFG3yor--M
+#EXTINF:0, LA NACION+ 2
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:0, TV PUBLICA
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:0, TN
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+https://www.youtube.com/watch?v=cb12KmMMDJA
 #EXTINF:0, A24
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0088
+https://www.youtube.com/watch?v=QGpHLgRnrx4
 #EXTINF:0, A24 2
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:0, ARGENTINISIMA
@@ -22,11 +24,9 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:0, CRONICA TV
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+https://www.youtube.com/watch?v=avly0uwZzOE
 #EXTINF:0, CANAL26
-http://200.115.193.177/live/26hd-720/master.m3u8
-#EXTINF:0, CANAL26 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
+https://www.youtube.com/live/RnTmtVFTSf0
 #EXTINF:0, CANAL13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:0, NEO
@@ -36,6 +36,8 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:0, ENCUENTRO
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
 #EXTINF:0, TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:0, TELEFE 2
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0, TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -49,8 +51,6 @@ http://45.5.151.151:8000/play/a002/index.m3u8
 http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:0, DEPORT TV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:0, EL GARAGE
-https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTM3U
 #EXTINF:0,A&E HD
 #EXTVLCOPT:network-caching=1000
